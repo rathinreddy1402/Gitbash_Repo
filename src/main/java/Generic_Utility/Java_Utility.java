@@ -11,5 +11,6 @@ public class Java_Utility {
 		return ranNum;
 		//1st push
 		//pushing back
+		//pulling back
 	}
 }
