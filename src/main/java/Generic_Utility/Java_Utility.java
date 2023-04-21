@@ -10,5 +10,6 @@ public class Java_Utility {
 		int ranNum = ran.nextInt(10000);
 		return ranNum;
 		//1st push
+		//pushing back
 	}
 }
