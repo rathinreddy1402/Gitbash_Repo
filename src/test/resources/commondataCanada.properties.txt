@@ -1,0 +1,9 @@
+browser edge
+url https://demo.actitime.com/login.do
+username admin
+password manager
+
+url1 http://localhost:8888/
+username1 admin
+password1 admin
+
