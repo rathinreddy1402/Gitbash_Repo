@@ -9,6 +9,6 @@ public class Java_Utility {
 		Random ran=new Random();
 		int ranNum = ran.nextInt(10000);
 		return ranNum;
-		
+		//1st push
 	}
 }
